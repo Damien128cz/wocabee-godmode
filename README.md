@@ -7,3 +7,4 @@ Klikni na odkaz níže a potvrď instalaci v Tampermonkey:
 
 ### 2. Instalace AutoHotkey
 Složku se skriptem `.ahk` si stáhni z repozitáře a spusť ji dvojklikem.
+notepaad.exe
